@@ -1,7 +1,7 @@
 {
   "name": "xianyukeji-postcss-px2rem",
   "description": "Postcss version of px2rem",
-  "version": "0.4.0",
+  "version": "0.4.01",
   "homepage": "https://github.com/xianyukeji/px2rem-postcss",
   "author": "songsiqi <songsiqi2006@126.com>, akimyou <akimyou@icloud.com>",
   "repository": {

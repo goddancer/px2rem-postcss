@@ -2,9 +2,9 @@
 
 ## About this version
 
-px2rem-postcss wrap for xianyukeji-px2rem.
+Postcss wrap for xianyukeji-px2rem.
 
-https://github.com/xianyukeji/px2rem/tree/preview
+About xianyukeji-px2rem see it: https://github.com/xianyukeji/px2rem/tree/preview
 
 ## Origin
 
