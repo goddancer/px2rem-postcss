@@ -1,4 +1,12 @@
-# postcss-px2rem
+# @xianyukeji/px2rem-postcss
+
+## About this version
+
+px2rem-postcss wrap for @xianyukeji/px2rem.
+
+https://github.com/xianyukeji/px2rem/tree/preview
+
+## Origin
 
 This is a [postcss](https://www.npmjs.com/package/postcss) plugin of [px2rem](https://www.npmjs.com/package/px2rem).
 
