@@ -1,8 +1,8 @@
-# @xianyukeji/px2rem-postcss
+# xianyukeji-px2rem-postcss
 
 ## About this version
 
-px2rem-postcss wrap for @xianyukeji/px2rem.
+px2rem-postcss wrap for xianyukeji-px2rem.
 
 https://github.com/xianyukeji/px2rem/tree/preview
 
